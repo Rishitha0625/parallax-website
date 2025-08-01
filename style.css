@@ -1,0 +1,60 @@
+*
+{
+    height: 100%;
+   margin: 0;
+   padding: 0;
+}
+.img1
+{
+    background-image: url("Custom Office Template/beach.jpg.png");
+    min-height: 100%;
+}
+.img2
+{
+    background-image: url("Custom Office Template/canal.jpg.png");
+    min-height: 800px;
+}
+.img3
+{
+    background-image: url("Custom Office Template/resort.jpg.png");
+    min-height: 400px;
+}
+.img1,.img2,.img3
+{
+    position: relative;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+
+}
+.text1
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px; 
+    letter-spacing: 8px;
+   
+}
+.text-bg
+{
+  background: #313534;
+  color:white ;
+  padding: 20px;
+}
+/* .section
+{
+    padding: 50px 80px;
+    text-align: center;
+} */
+.section-beach,.section-canal,.section-resort
+{
+    padding: 50px 80px;
+    text-align: center;
+    background-color:white;
+    color:black;
+    height: 30px;
+   
+}
