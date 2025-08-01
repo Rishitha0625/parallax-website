@@ -11,12 +11,12 @@
 }
 .img2
 {
-    background-image: url("Custom Office Template/canal.jpg.png");
+    background-image: url("canal.jpg.png");
     min-height: 800px;
 }
 .img3
 {
-    background-image: url("Custom Office Template/resort.jpg.png");
+    background-image: url("resort.jpg.png");
     min-height: 400px;
 }
 .img1,.img2,.img3
@@ -58,4 +58,5 @@
     height: 30px;
    
 }
+
 
