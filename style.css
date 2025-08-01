@@ -6,7 +6,7 @@
 }
 .img1
 {
-    background-image: url("Custom Office Template/beach.jpg.png");
+    background-image: url("beach.jpg.png");
     min-height: 100%;
 }
 .img2
@@ -58,3 +58,4 @@
     height: 30px;
    
 }
+
